@@ -16,7 +16,7 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Yeseva One
+      header: DM Serif Display
       body: Reddit Sans
       code: Jetbrains Mono
     colors:
