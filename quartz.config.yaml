@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: IBM Plex Mono
-      body: Reddit Mono
+      header: Neuton
+      body: Reddit Sans
       code: Cutive Mono
     colors:
       lightMode:
@@ -154,6 +154,8 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
+    filterFn: "node.isFolder"
+    title: "Jelajahi"
     layout:
       position: left
       priority: 50
@@ -264,7 +266,7 @@ plugins:
       name: quartz-themes
       repo: github:saberzero1/quartz-themes
       subdir: plugin
-    enabled: true
+    enabled: false
     options:
       theme: retronotes
   - source: github:quartz-community/obsidian-plugin-excalidraw
