@@ -228,7 +228,11 @@ plugins:
         GitHub: https://github.com/jackyzha0/quartz
         Discord Community: https://discord.gg/cRFFHYye7t
   - source: github:quartz-community/recent-notes
-    enabled: false
+    enabled: true
+    options:
+      title: "Tulisan Terbaru"
+      limit: 3
+      showTags: false
   - source: github:quartz-community/spacer
     enabled: true
     options: {}

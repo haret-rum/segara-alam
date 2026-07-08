@@ -21,7 +21,7 @@ Menurut Muruwwah, pemecahan masalah hubungan antara masa kini Arab (dalam dimens
 
 Dua hal di atas menjadi tujuan besar Muruwwah, dan *an-Naz'āt* merupakan terapan praksis dari tujuan tersebut.
 
-## Hakikat muatan revolusioner dari gerakan pembebasan nasional Arab di masa kini dan mendatang
+## Hakikat Muatan Revolusioner dari Gerakan Pembebasan Nasional Arab di Masa Kini dan Mendatang
 
 Meningkatnya kesadaran pembebasan nasional (dekolonisasi) dan pembebasan sosial (revolusi) memperlihatkan proses perubahan muatan revolusionernya.
 
@@ -38,7 +38,7 @@ Bagaimanakah peningkatan ini?
 	2. memilih untuk mengintegrasikan praktik gerakan mereka dengan pendekatan ilmiah revolusioner.
 6. gerakan pembebasan nasional menyadari keniscayaannya terhubung secara organik dengan gerakan revolusioner di dunia dengan tujuan utamanya adalah pendirian negara sosialis.
 
-## Hakikat Hubungan Esensial Antara Muatan Revolusioner Ini Dengan Posisi Revolusioner Terhadap *turāts*.
+## Hakikat Hubungan Esensial antara Muatan Revolusioner dengan Posisi Revolusioner Terhadap Turāts
 
 Sebelum sampai ke situ perlu diperjelas bahwa hakikat itu haruslah bersifat:
 
@@ -57,7 +57,7 @@ Muruwwah mengatakan:
 
 <u>Membangun pengetahuan di atas ideologi revolusioner ini berdasar pada watak dari realitas itu sendiri</u> ⇒ berarti pengetahuan tentang *turāts* itu sendiri bersifat ideologis.
 
-### *Turāts* Secara Objektif Dan Realis Ini Kemudian Dijelaskan Muruwwah
+### Turāts secara Objektif dan Realis kemudian Dijelaskan Muruwwah
 
 Bentuk-bentuk pengetahuan tentang *turāts* berbeda-beda bagi setiap orang yang memikirkannya pada masing-masing eranya. Sebagian bentuk pengetahuan itu saling berbeda satu sama lain, sebagiannya saling bertentangan dan sebagian lainnya saling identik. 
 
@@ -132,7 +132,7 @@ Para penafsir yang berkecenderungan materialis tidak mengabaikan filsuf idealism
 
 Sementara itu, para penafsir idealis dalam banyak kasusnya tidak mempertimbangkan konflik-konfilk pemikiran mereka terhadap para filsuf materialis. Materialisme justru diabaikan dan dicoba untuk didistorsi. Sejarah yang idealis tentang filsafat menolak memasukkan materialisme sebagai bagian sah dari filsafat dan menarasikannnya sebagai: materialisme adalah musuh agama sedangkan agama dan filsafat itu satu kesatuan. Inilah posisi ideologis dari penafsiran idealisme.
 
-## Pengetahuan Tentang *turāts* Selalu Berangkat Dari Masa Kini
+## Pengetahuan Tentang turāts Selalu Berangkat Dari Masa Kini
 
 Di mana pun masa-kini pengamat ada, *turāts* yang dia amati (berarti: pengetahuan tentang turats) sudah selalu merupakan produk pengetahuan masa kini.
 
