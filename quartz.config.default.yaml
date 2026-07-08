@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: "Segara Alam"
+  pageTitle: Quartz 5
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: id-ID
+  locale: en-US
   baseUrl: quartz.jzhao.xyz
   ignorePatterns:
     - private
@@ -16,29 +16,29 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Source Serif 4
-      body: Reddit Sans
+      header: Schibsted Grotesk
+      body: Source Sans Pro
       code: IBM Plex Mono
     colors:
       lightMode:
         light: "#faf8f8"
-        lightgray: "#c0c0c0"
-        gray: "#a8a8a8"
-        darkgray: "#404040"
-        dark: "#282828"
-        secondary: "#d20f39"
-        tertiary: "#683030"
-        highlight: "rgba(143, 159, 169, 0.15)"
+        lightgray: "#e5e5e5"
+        gray: "#b8b8b8"
+        darkgray: "#4e4e4e"
+        dark: "#2b2b2b"
+        secondary: "#284b63"
+        tertiary: "#84a59d"
+        highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#fff23688"
       darkMode:
         light: "#161618"
-        lightgray: "#414559"
-        gray: "#626880"
+        lightgray: "#393639"
+        gray: "#646464"
         darkgray: "#d4d4d4"
         dark: "#ebebec"
-        secondary: "#d20f39"
-        tertiary: "#e78284"
-        highlight: "rgba(143, 159, 169, 0.15)"
+        secondary: "#7b97aa"
+        tertiary: "#84a59d"
+        highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
   - source: github:quartz-community/created-modified-date
