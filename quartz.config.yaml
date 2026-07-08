@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: "Segara Alam"
+  pageTitle: Segara Alam
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -251,7 +251,6 @@ plugins:
       includeAll: false
       includedProperties:
         - tags
-        - aliases
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
