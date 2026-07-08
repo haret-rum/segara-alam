@@ -16,7 +16,7 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Jersey 15
+      header: IBM Plex Mono
       body: Reddit Mono
       code: Cutive Mono
     colors:
@@ -266,7 +266,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: retronotes.blueprint
+      theme: retronotes
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
