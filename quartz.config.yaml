@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Segara Alam
+  pageTitle: "Segara Alam"
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -266,7 +266,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: default
+      theme: retronotes
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
