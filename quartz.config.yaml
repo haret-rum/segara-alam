@@ -151,11 +151,9 @@ plugins:
   - source: github:quartz-community/folder-page
     enabled: true
   - source: github:quartz-community/tag-page
-    enabled: true
+    enabled: false
   - source: github:quartz-community/explorer
-    enabled: true
-    filterFn: "node.isFolder"
-    title: "Jelajahi"
+    enabled: false
     layout:
       position: left
       priority: 50
@@ -190,13 +188,13 @@ plugins:
   - source: github:quartz-community/tag-list
     enabled: false
     layout:
-      position: beforeBody
-      priority: 30
+      position: afterBody
+      priority: 50
   - source: github:quartz-community/page-title
     enabled: true
     layout:
       position: left
-      priority: 10
+      priority: 5
   - source: github:quartz-community/darkmode
     enabled: true
     layout:
@@ -234,7 +232,6 @@ plugins:
     options:
       title: "Tulisan Terbaru"
       limit: 3
-      showTags: false
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
