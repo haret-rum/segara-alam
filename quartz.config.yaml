@@ -16,9 +16,9 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Source Serif 4
-      body: Reddit Sans
-      code: Jetbrains Mono
+      header: Jersey 15
+      body: Reddit Mono
+      code: Cutive Mono
     colors:
       lightMode:
         light: "#faf8f8"
@@ -264,9 +264,9 @@ plugins:
       name: quartz-themes
       repo: github:saberzero1/quartz-themes
       subdir: plugin
-    enabled: false
+    enabled: true
     options:
-      theme: retronotes
+      theme: retronotes.blueprint
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
