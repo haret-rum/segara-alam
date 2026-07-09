@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: "Segara Alam"
+  pageTitle: Segara Alam
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -16,9 +16,10 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Neuton
+      header: Fraunces
       body: Reddit Sans
       code: Cutive Mono
+      title: Sedgwick Ave Display
     colors:
       lightMode:
         light: "#faf8f8"
@@ -28,7 +29,7 @@ configuration:
         dark: "#d20f39"
         secondary: "#d20f39"
         tertiary: "#683030"
-        highlight: "rgba(143, 159, 169, 0.15)"
+        highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#fff23688"
       darkMode:
         light: "#161618"
@@ -38,7 +39,7 @@ configuration:
         dark: "#ebebec"
         secondary: "#d20f39"
         tertiary: "#e78284"
-        highlight: "rgba(143, 159, 169, 0.15)"
+        highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
   - source: github:quartz-community/created-modified-date
@@ -110,6 +111,17 @@ plugins:
     order: 92
   - source: github:quartz-community/fonts
     enabled: false
+    options:
+      fontOrigin: googleFonts
+      title: Sedgwick Ave Display
+      header: Sedgwick Ave Display
+      h3: Reddit Sans Condensed
+      h4: Reddit Sans Condensed
+      h5: Reddit Sans Condensed
+      h6: Reddit Sans Condensed
+      body: Reddit Sans
+      code: JetBrains Mono
+      interface: Sen
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
@@ -151,7 +163,7 @@ plugins:
   - source: github:quartz-community/folder-page
     enabled: true
   - source: github:quartz-community/tag-page
-    enabled: false
+    enabled: true
   - source: github:quartz-community/explorer
     enabled: false
     layout:
@@ -159,9 +171,6 @@ plugins:
       priority: 50
   - source: github:quartz-community/graph
     enabled: true
-    layout:
-      position: right
-      priority: 10
   - source: github:quartz-community/search
     enabled: true
     layout:
@@ -188,13 +197,13 @@ plugins:
   - source: github:quartz-community/tag-list
     enabled: false
     layout:
-      position: afterBody
-      priority: 50
+      position: beforeBody
+      priority: 30
   - source: github:quartz-community/page-title
     enabled: true
     layout:
       position: left
-      priority: 5
+      priority: 10
   - source: github:quartz-community/darkmode
     enabled: true
     layout:
@@ -208,7 +217,12 @@ plugins:
       priority: 35
       group: toolbar
   - source: github:quartz-community/breadcrumbs
-    enabled: false
+    enabled: true
+    options:
+      spacerSymbol: ★
+      rootName: Beranda
+      resolveFrontmatterTitle: true
+      showCurrentPage: false
     layout:
       position: beforeBody
       priority: 5
@@ -230,8 +244,11 @@ plugins:
   - source: github:quartz-community/recent-notes
     enabled: true
     options:
-      title: "Tulisan Terbaru"
+      title: Tulisan Terbaru
       limit: 3
+      showTags: false
+      hideTagPages: true
+      hideFolderPages: false
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
