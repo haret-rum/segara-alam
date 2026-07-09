@@ -255,10 +255,10 @@ plugins:
     enabled: true
     options:
       title: "Tulisan Terbaru"
-      limit: 5
+      limit: 3
       showTags: false
       hideTagPages: true
-      hideFolderPages: false
+      hideFolderPages: true
     layout:
       position: afterBody
       priority: 50
