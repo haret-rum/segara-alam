@@ -165,7 +165,12 @@ plugins:
   - source: github:quartz-community/tag-page
     enabled: true
   - source: github:quartz-community/explorer
-    enabled: false
+    enabled: true
+    options:
+      title: Jelajahi
+      folderClickBehavior: link
+      folderDefaultState: collapsed
+      useSavedState: false
     layout:
       position: left
       priority: 50

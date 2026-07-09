@@ -21,7 +21,7 @@ Sekitar seminggu lalu, saya dan pihak pengurus Lakpesdam sama-sama menyetujui di
 > [!info] Informasi Pendaftaran
 > - Pendaftaran bisa dilakukan [melalui formulir ini](https://forms.gle/KuveYR5PsgFs4QUo7).
 > - Diskusi akan dimulai awal April dan berlangsung dua minggu sekali.
-> - Buku _al-Naz'āt_ dapat diunduh di [laman lcparty.org](https://lcparty.org/en/library/2021-01-09-23-51-38?format=html).
+> - Buku _al-Naz'āt_ dapat diunduh di [laman lcparty.org](https://lcparty.org/en/library/2021-01-09-23-51-38?format=html) atau [archive](https://archive.org/details/hussien_marwa).
 
 _Al-Naz'āt_ adalah hasil eksperimen Husain Muruwwah dalam mempraktikkan metode materialisme historis marxis untuk menginvestigasi sejarah pemikiran filsafat Arab-Islam. Buku setebal empat jilid ini memaparkan tahapan-tahapan perkembangan pemikiran filosofis di Arab, mulai dari kemunculannya sebagai embrio di era peralihan Jahiliyyah-Islam, hingga filsafat Ibnu Sina dan Illuminasi Suhrawardi, yang dibasiskan pada metode materialisme historis atas tahapan perkembangan masyarakat Arab itu sendiri.
 

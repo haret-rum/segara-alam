@@ -14,7 +14,7 @@ socialImage:
 ---
 Ini adalah catatan untuk Tadarrus an-Nazʿāt pada 7 Juli 2026
 
-Menurut Muruwwah, pemecahan masalah hubungan antara masa kini Arab (dalam dimensi nasional, sosial dan pemikirannya) dan *turāts* masa lalu hanya dapat diselesaikan dengan mengungkap dua hal berikut:
+Menurut Muruwwah, pemecahan masalah hubungan — yang mana latar belakang dari masalah ini telah dijelaskan dalam [[catatan-pembahasan-metode-dasar-1|pembahasan sebelumnya]] — antara masa kini Arab (dalam dimensi nasional, sosial dan pemikirannya) dan *turāts* masa lalu hanya dapat diselesaikan dengan mengungkap dua hal berikut:
 
 1. Hakikat muatan revolusioner dari gerakan pembebasan nasional Arab di masa kini dan mendatang
 2. Hakikat hubungan esensial antara muatan revolusioner ini dengan posisi revolusioner terhadap *turāts*.
@@ -38,7 +38,7 @@ Bagaimanakah peningkatan ini?
 	2. memilih untuk mengintegrasikan praktik gerakan mereka dengan pendekatan ilmiah revolusioner.
 6. gerakan pembebasan nasional menyadari keniscayaannya terhubung secara organik dengan gerakan revolusioner di dunia dengan tujuan utamanya adalah pendirian negara sosialis.
 
-## Hakikat Hubungan Esensial Antara Muatan Revolusioner Ini Dengan Posisi Revolusioner Terhadap *turāts*.
+## Hakikat Hubungan Esensial Antara Muatan Revolusioner Ini Dengan Posisi Revolusioner Terhadap turāts.
 
 Sebelum sampai ke situ perlu diperjelas bahwa hakikat itu haruslah bersifat:
 
@@ -57,31 +57,31 @@ Muruwwah mengatakan:
 
 <u>Membangun pengetahuan di atas ideologi revolusioner ini berdasar pada watak dari realitas itu sendiri</u> ⇒ berarti pengetahuan tentang *turāts* itu sendiri bersifat ideologis.
 
-### *Turāts* Secara Objektif Dan Realis Ini Kemudian Dijelaskan Muruwwah
+### Turāts Secara Objektif Dan Realis Ini Kemudian Dijelaskan Muruwwah
 
 Bentuk-bentuk pengetahuan tentang *turāts* berbeda-beda bagi setiap orang yang memikirkannya pada masing-masing eranya. Sebagian bentuk pengetahuan itu saling berbeda satu sama lain, sebagiannya saling bertentangan dan sebagian lainnya saling identik. 
 
 **Problem:** bagaimana menafsirkan fenomena semacam itu? pengetahuan itu saling berbeda satu sama lain tetapi hasil pikiran *turāts* itu sendiri adalah satu hal, **serupa realitas historis yang memiliki gambaran yang tetap, teks-teks yang beku yang diwariskan dari generasi ke generasi.**
 
-### Perbedaan Antara *turāts* Dan Pengetahuan Tentang *turāts*
+### Perbedaan Antara turāts Dan Pengetahuan Tentang turāts
 
 Pengetahuan tentang *turāts* merupakan ekstra-turats yang dirujukkan ke bermacam-macam sumber. Oleh karena itu ia berlipat ganda, beragam dan berbeda satu sama lain. Namun *turāts* itu sendiri satu tiada lainnya.
 
-Di sinilah Muruwwah menegaskan bahwa pengetahuan tentang *turāts* mesti dipisahkan secara ontologis dari keberadaan *turāts* itu sendiri. *Turāts* itu sendiri merupakan objek independen dan terpisah dari subjek yang mengamatinya. Ia "satu tiada lainnya." Ada tidaknya *turāts* tidak bergantung pada ada tidanya pengetahuan tentangnya di masa kini. Justru sebaliknya, pengetahuan tentang *turāts* menjadi mungkin karena *turāts* dapat ada dengan atau tanpa pengetahuan kita tentangnya.
+Di sinilah Muruwwah menegaskan bahwa pengetahuan tentang *turāts* mesti dipisahkan secara ontologis dari keberadaan *turāts* itu sendiri. *Turāts* itu sendiri merupakan objek independen dan terpisah dari subjek yang mengamatinya. Ia "satu tiada lainnya" sehingga ada tidaknya *turāts* tidak bergantung pada ada tidaknya pengetahuan tentangnya di masa kini. Justru sebaliknya, pengetahuan tentang *turāts* menjadi mungkin karena *turāts* dapat ada dengan atau tanpa pengetahuan kita tentangnya.
 
-*Turāts* bersifat objektif karena ia pernah ada secara aktual terlepas dari kita tahu atau tidak. Misalnya: *Turāts* filsafat Aristoteles berarti merujuk pada sistem pengetahuan yang dimiliki oleh Aristoteles. Pengetahuan tentang *turāts* tersebut dapat diakses melalui terjemahan, teks-teks, komentar tentangnya lewat Ibnu Rusyd misalnya. 
+*Turāts* bersifat objektif karena ia pernah ada secara aktual terlepas dari kita tahu atau tidak. Misalnya: *Turāts* filsafat Aristoteles berarti merujuk pada sistem pengetahuan yang pernah dimiliki oleh Aristoteles. Pengetahuan tentang *turāts* tersebut dapat diakses melalui terjemahan, teks-teks, komentar tentangnya lewat Ibnu Rusyd, misalnya. 
 
-Muruwwah menekankan pula bahwa pengetahuan tentang *turāts* dapat " berlipat ganda, beragam dan berbeda satu sama lain". Di sini kita dapat menafsirkan pernyataan Muruwwah tersebut bahwa pengetahuan tentang *turāts* memiliki relativisme epistemologis, di mana pengetahuan yang 'netral' tentangnya menjadi mustahil. Relativisme epistemologis (istilah yang dipinjam dari Bhaskar) menegaskan bahwa pengetahuan tentang *turāts* tidak bersifat absolut, tetapi juga tidak sepenuhnya acak karena sejatinya ia dijangkarkan pada struktur ontologis *turāts* yang independen. 
+Muruwwah menekankan pula bahwa pengetahuan tentang *turāts* dapat "berlipat ganda, beragam dan berbeda satu sama lain". Di sini kita dapat menafsirkan pernyataan Muruwwah tersebut bahwa pengetahuan tentang *turāts* memiliki relativisme epistemologis, di mana pengetahuan yang 'netral' tentangnya menjadi mustahil. Relativisme epistemologis (istilah yang dipinjam dari Bhaskar) menegaskan bahwa pengetahuan tentang *turāts* tidak bersifat absolut, tetapi juga tidak sepenuhnya acak karena sejatinya ia dijangkarkan pada struktur ontologis *turāts* yang independen. 
 
 Muruwwah melanjutkan penjelasannya bahwa adalah keniscayaan jika orang-orang yang menghasilkan bentuk-bentuk pengetahuan tentang *turāts* saling berbeda satu sama lain **karena satu hal tertentu**.
 
 Apakah itu satu hal tertentu?
 
-Perbedaan personal? bukan. Sebab seandainya perbedaan antara satu pengetahuan dengan pengetahuan lainnya dipicu oleh faktor-faktor personal-subjektif, niscaya keserupaan dan kemiripan menjadi hal yang jarang atau bahkan mustahil. 
+Perbedaan personal? Tentu saja bukan. Sebab seandainya perbedaan antara satu pengetahuan dengan pengetahuan lainnya dipicu oleh faktor-faktor personal-subjektif, niscaya keserupaan dan kemiripan menjadi hal yang jarang atau bahkan mustahil. 
 
 Menurut Muruwwah, bentuk-bentuk pengetahuan tentang *turāts* yang kadang saling identik, kadang saling berbeda, kadang saling bertentangan satu sama lain itu muncul dari titik berangkat yang bersifat sosial bukan individual, dan bersifat objektif, bukan subjektif.
 
-Berdasarkan investigasi sejarah filsafat yang dilakukan Muruwwah (yang nantinya akan dikaji sebagai materi diskusi berikutnya), dapat disimpulkan bahwa setiap pengetahuan tentang *turāts* muncul dari posisi ideologis para pemikir.
+Berdasarkan investigasi sejarah filsafat yang dilakukan Muruwwah (yang nantinya akan dikaji sebagai [[tentatif-tadarrus-muqaddimah-alnazat|materi diskusi berikutnya]]), dapat disimpulkan bahwa setiap pengetahuan tentang *turāts* muncul dari posisi ideologis para pemikir.
 
 Posisi ideologis pemikir pada dasarnya adalah cermin dari posisi kelasnya. Posisi kelas tidak disyaratkan untuk hadir secara langsung, tetapi ia bisa hadir tersembunyi dalam relung pemikiran di mana bentuk pengetahuan tertentu bertopang di atasnya. Ini merupakan hukum umum bagi setiap pengetahuan di setiap *turāts* manusia di peradaban mana pun.
 
@@ -108,13 +108,14 @@ Dalam hal pembabakan sejarah misalnya, banyak sejarawan filsafat yang bertolak d
 Yaitu penafsiran yang dilandaskan pada nosi bahwa filsafat muncul dalam masyarakat sebagai cerminan tak langsung dari realitas material (relasi produksi dan corak produksi). 
 
 > [!NOTE] Tentang Basis dan Superstruktur
+> 
 > Dalam sudut pandang materialisme historis, struktur masyarakat dibagi menjadi dua: basis dan superstruktur. filsafat digolongkan keberadaannya di ranah superstruktur sebab keberadaannya ditopang oleh corak produksi dan relasi produksi. Corak produksi dan relasi produksi merupakan basis masyarakat. 
 > 
 > Selain filsafat superstruktur mencakup juga ranah politik, hukum, negara, ideologi, pengetahuan, dsb. 
 > 
 > Adanya aktivitas berfilsafat di Yunani klasik yang mekar disebabkan oleh cara produksi perbudakaan di mana secara demografis populasi budak mencapai hampir setengah populasi masyarakat Yunani. Dengan adanya lapisan populasi yang tidak bekerja, dan dengan didukung pula oleh institusi dan lembaga superstruktur lainnya, muncul kelas-kelas menengah-atas yang diisi oleh kaum filsuf sehingga filsafat sebagai aktivitas menjadi mungkin. Artinya berfilsafat (sebagai produksi pengetahuan) dan filsafat (sebagai produk pengetahuan) menjadi mungkin sebab pada titik terakhirnya ia ditopang oleh keberadaan basis (yaitu relasi dan corak produksi perbudakan). 
 > 
-> Meskipun demikian, bukan berarti superstruktur tidak dapat memberikan efek terhadap basis. Filsafat dapat mempengaruhi relasi dan cara produksi masyarakat Yunani waktu itu. Filsafat memiliki otonomi relatif (istilah ini disebut Muruwwah dengan (*istiqlāl nisbī* dalam catatan kaki hal. 21) yang membuatnya mungkin untuk mempengaruhi — entah itu mereproduksi atau mengubah — struktur basis. Dalam kasus filsafat Yunani, ia menjadi instrumen ideologis yang dikembangkan oleh para pemiliki budak untuk mempertahankan polis, yang mampu mengatur dan menstabilkan relasi produksi perbudakan itu sendiri di tengah konflik politik internal.
+> Meskipun demikian, bukan berarti superstruktur tidak dapat memberikan efek terhadap basis. Filsafat dapat mempengaruhi relasi dan cara produksi masyarakat Yunani waktu itu. Filsafat memiliki otonomi relatif (istilah ini disebut Muruwwah dengan *istiqlāl nisbī* dalam catatan kaki hal. 21) yang membuatnya mungkin untuk mempengaruhi — entah itu mereproduksi atau mengubah — struktur basis. Dalam kasus filsafat Yunani, ia menjadi instrumen ideologis yang dikembangkan oleh para pemiliki budak untuk mempertahankan polis, yang mampu mengatur dan menstabilkan relasi produksi perbudakan itu sendiri di tengah konflik politik internal.
 
 Pembabakan sejarah filsafat menurut materialisme historis yang dicontohkan Muruwwah:
 
@@ -132,7 +133,7 @@ Para penafsir yang berkecenderungan materialis tidak mengabaikan filsuf idealism
 
 Sementara itu, para penafsir idealis dalam banyak kasusnya tidak mempertimbangkan konflik-konfilk pemikiran mereka terhadap para filsuf materialis. Materialisme justru diabaikan dan dicoba untuk didistorsi. Sejarah yang idealis tentang filsafat menolak memasukkan materialisme sebagai bagian sah dari filsafat dan menarasikannnya sebagai: materialisme adalah musuh agama sedangkan agama dan filsafat itu satu kesatuan. Inilah posisi ideologis dari penafsiran idealisme.
 
-## Pengetahuan Tentang *turāts* Selalu Berangkat Dari Masa Kini
+## Pengetahuan Tentang turāts Selalu Berangkat Dari Masa Kini
 
 Di mana pun masa-kini pengamat ada, *turāts* yang dia amati (berarti: pengetahuan tentang turats) sudah selalu merupakan produk pengetahuan masa kini.
 
