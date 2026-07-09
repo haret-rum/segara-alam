@@ -259,8 +259,9 @@ plugins:
       showTags: false
       hideTagPages: true
       hideFolderPages: false
-    position: afterBody
-    priority: 50
+    layout:
+      position: afterBody
+      priority: 50
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
