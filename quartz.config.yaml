@@ -5,7 +5,9 @@ configuration:
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: vercel
+    provider: umami
+    host: https://api.umami.is
+    websiteId: de9f05ed-8807-49d3-b5c2-b0f521bc7d63
   locale: id-ID
   baseUrl: segara-alam.my.id
   ignorePatterns:
