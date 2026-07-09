@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: vercel
   locale: id-ID
-  baseUrl: segara-alam.vercel.app
+  baseUrl: segara-alam.my.id
   ignorePatterns:
     - private
     - templates
