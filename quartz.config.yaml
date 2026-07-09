@@ -254,11 +254,13 @@ plugins:
   - source: github:quartz-community/recent-notes
     enabled: true
     options:
-      title: Tulisan Terbaru
-      limit: 3
+      title: "Tulisan Terbaru"
+      limit: 5
       showTags: false
       hideTagPages: true
       hideFolderPages: false
+    position: afterBody
+    priority: 50
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
