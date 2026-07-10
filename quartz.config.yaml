@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: umami
-    host: https://api.umami.is
+    host: https://cloud.umami.is
     websiteId: de9f05ed-8807-49d3-b5c2-b0f521bc7d63
   locale: id-ID
   baseUrl: segara-alam.my.id
