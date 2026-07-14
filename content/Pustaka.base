@@ -1,0 +1,12 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - collection == "unduh"
+    order:
+      - title
+      - author
+      - year
+    image: note.cover
+    imageFit: contain
