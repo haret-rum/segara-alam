@@ -28,6 +28,6 @@ collection: unduh
   EmbedPDF.init({
     type: 'container',
     target: document.getElementById('pdf-viewer'),
-    src: 'https://drive.google.com/file/d/1bSfe3ro2CEfQUhOvhB-bbedOAT_Z-1Eb/view?usp=drivesdk' // Ganti dengan path file PDF kamu
+    src: 'https://drive.usercontent.google.com/download?id=1bSfe3ro2CEfQUhOvhB-bbedOAT_Z-1Eb&export=download&authuser=0' // Ganti dengan path file PDF kamu
   });
 </script>

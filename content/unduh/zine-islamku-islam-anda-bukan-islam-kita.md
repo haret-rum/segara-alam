@@ -28,7 +28,7 @@ collection: unduh
   EmbedPDF.init({
     type: 'container',
     target: document.getElementById('pdf-viewer'),
-    src: 'islamku-islam-anda-bukan-islam-kita.pdf' // Ganti dengan path file PDF kamu
+    src: 'segara-alam/content/assets/islamku-islam-anda-bukan-islam-kita.pdf' // Ganti dengan path file PDF kamu
   });
 </script>
 
