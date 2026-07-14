@@ -1,0 +1,13 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.folder == "content/unduh"
+    order:
+      - title
+      - author
+      - year
+    cardSize: 230
+    image: note.socialImage
+    imageAspectRatio: 1.45

@@ -280,8 +280,11 @@ plugins:
       includeAll: false
       includedProperties:
         - tags
+        - title
+        - author
+        - categories
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true
       delimiters: ---
       language: yaml
     order: 5
