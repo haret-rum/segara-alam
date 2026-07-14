@@ -14,7 +14,7 @@ author:
 year: 2025
 cover: "[[zinee tempurung_1.png]]"
 tags:
-  - unduh
+  - zine
 collection: unduh
 ---
 

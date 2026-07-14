@@ -15,7 +15,7 @@ tags:
   - marxis
   - mitos
 ---
-*Tulisan ini dipublikasikan pertama kali pada 10 Februari 2026 di [Revsoc.me](https://revsoc.me/revolutionary-experiences/25-yanayer-bayna-asatir-al-sulta-wa-thakirat-al-jamahir/)*
+Tulisan ini ditulis pertama kali oleh Layla Hossam dan Eslam Ibrahim, dan dipublikasikan pertama kali pada 10 Februari 2026 di [Revsoc.me](https://revsoc.me/revolutionary-experiences/25-yanayer-bayna-asatir-al-sulta-wa-thakirat-al-jamahir/)
 
 Di sekolah-sekolah, kita mempelajari bahwa sejarah ditulis oleh pemenang. Dan hari ini, kepemimpinan kontra-revolusi berdiri di hadapan kita, menenun dongeng dan mitos tentang Revolusi 25 Januari 2011.
 

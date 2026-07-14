@@ -14,7 +14,7 @@ date: 2026-03-06
 socialDescription: Pada Sabtu pagi, 28 Februari, Tehran diguncang oleh serangkaian ledakan keras saat rudal-rudal AS dan Israel menghantam ibu kota Iran.
 socialImage:
 ---
-*Artikel ini pertama kali diterbitkan di [Marxist.com](https://marxist.com/the-war-on-iran-where-do-communists-stand.htm) pada 28 Februari 2026.*
+Artikel ini pertama kali ditulis oleh Alan Woods dan diterbitkan di [Marxist.com](https://marxist.com/the-war-on-iran-where-do-communists-stand.htm) pada 28 Februari 2026.
 
 Pada Sabtu pagi, 28 Februari, Tehran diguncang oleh serangkaian ledakan keras saat rudal-rudal AS dan Israel menghantam ibu kota Iran. Kepulan asap juga tampak membumbung di Tehran, Qom, dan kota-kota Iran lainnya, yang menandai dimulainya perang.
 

@@ -320,7 +320,10 @@ layout:
         beforeBody: []
         left: []
         right: []
-    content: {}
+    content:
+      positions:
+        berforBody:
+          -"./quartz/components/Author.tsx"
     folder:
       exclude:
         - reader-mode
