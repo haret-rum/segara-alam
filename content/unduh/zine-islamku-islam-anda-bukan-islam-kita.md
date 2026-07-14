@@ -17,7 +17,7 @@ tags:
   - unduh
 collection: unduh
 ---
-![[content/assets/islamku-islam-anda-bukan-islam-kita.pdf]]
+![](https://drive.google.com/file/d/1miYp6Usvqm9hE_we6busQhXwPHFwQFDQ/view?usp=sharing)
 
 [[islamku-islam-anda-bukan-islam-kita.pdf|Unduh]]
 

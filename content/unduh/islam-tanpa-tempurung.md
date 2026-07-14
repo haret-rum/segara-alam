@@ -17,5 +17,5 @@ tags:
   - unduh
 collection: unduh
 ---
+![](https://drive.google.com/file/d/1bSfe3ro2CEfQUhOvhB-bbedOAT_Z-1Eb/view?usp=sharing)
 
-![[zinee tempurung_1.png]]
