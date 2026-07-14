@@ -17,6 +17,19 @@ tags:
   - unduh
 collection: unduh
 ---
-<iframe src="/pdf-viewer/web/viewer.html?file=files/islamku-islam-anda-bukan-islam-kita.pdf" width="100%" height="600"></iframe>
+
+<!-- 1. Tempat untuk menampilkan PDF Viewer -->
+<div id="pdf-viewer" style="height: 600px; width: 100%;"></div>
+
+<!-- 2. Kode untuk memuat dan menjalankan EmbedPDF -->
+<script type="module">
+  import EmbedPDF from 'https://cdn.jsdelivr.net/npm/@embedpdf/snippet@2/dist/embedpdf.js';
+
+  EmbedPDF.init({
+    type: 'container',
+    target: document.getElementById('pdf-viewer'),
+    src: './content/assets/islamku-islam-anda-bukan-islam-kita.pdf' // Ganti dengan path file PDF kamu
+  });
+</script>
 
 [[islamku-islam-anda-bukan-islam-kita.pdf|Unduh]]
