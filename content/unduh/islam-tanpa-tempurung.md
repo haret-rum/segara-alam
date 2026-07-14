@@ -18,16 +18,6 @@ tags:
 collection: unduh
 ---
 
-<!-- 1. Tempat untuk menampilkan PDF Viewer -->
-<div id="pdf-viewer" style="height: 600px; width: 100%;"></div>
+<iframe src="https://drive.google.com/file/d/1bSfe3ro2CEfQUhOvhB-bbedOAT_Z-1Eb/preview" width="100%" height="600" style="border: none; border-radius: 8px;"></iframe>
 
-<!-- 2. Kode untuk memuat dan menjalankan EmbedPDF -->
-<script type="module">
-  import EmbedPDF from 'https://cdn.jsdelivr.net/npm/@embedpdf/snippet@2/dist/embedpdf.js';
-
-  EmbedPDF.init({
-    type: 'container',
-    target: document.getElementById('pdf-viewer'),
-    src: 'https://drive.usercontent.google.com/download?id=1bSfe3ro2CEfQUhOvhB-bbedOAT_Z-1Eb&export=download&authuser=0' // Ganti dengan path file PDF kamu
-  });
-</script>
+Unduh di [sini](https://drive.google.com/file/d/1bSfe3ro2CEfQUhOvhB-bbedOAT_Z-1Eb/view?usp=drivesdk)
