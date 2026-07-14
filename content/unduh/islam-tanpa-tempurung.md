@@ -17,5 +17,4 @@ tags:
   - unduh
 collection: unduh
 ---
-![](https://drive.google.com/file/d/1bSfe3ro2CEfQUhOvhB-bbedOAT_Z-1Eb/view?usp=sharing)
-
+<iframe src="https://drive.google.com/file/d/1bSfe3ro2CEfQUhOvhB-bbedOAT_Z-1Eb/view?usp=sharing" width="100%" height="400" style="border:none";></iframe>
