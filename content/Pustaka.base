@@ -8,4 +8,7 @@ views:
       - title
       - author
       - year
+    sort:
+      - property: year
+        direction: ASC
     image: note.socialImage
