@@ -180,8 +180,8 @@ plugins:
   - source: github:quartz-community/graph
     enabled: true
     layout:
-        position: right
-        priority: 10
+      position: right
+      priority: 10
   - source: github:quartz-community/search
     enabled: true
     layout:
@@ -255,7 +255,7 @@ plugins:
   - source: github:quartz-community/recent-notes
     enabled: true
     options:
-      title: "Tulisan Terbaru"
+      title: Tulisan Terbaru
       limit: 3
       showTags: false
       hideTagPages: true
@@ -274,8 +274,8 @@ plugins:
   - source: github:quartz-community/bases-page
     enabled: true
     options:
-      defaultViewType: "cards"
-      linkResolution: "shortest"
+      defaultViewType: cards
+      linkResolution: shortest
     order: 50
   - source: github:quartz-community/note-properties
     enabled: true
@@ -309,6 +309,25 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source: github:vazome/quartz-clickable-images-zoom-plugin
+    enabled: true
+    options: {}
+    order: 50
+  - source: github:HappyPotatoHead/quartz5-clickable-images
+    enabled: true
+    options:
+      minScaleFactor: 1.5
+      maxScaleFactor: 3
+      borderRadius: 8px
+    order: 50
+  - source: github:HappyPotatoHead/quartz5-drawer
+    enabled: true
+    options:
+      collapseByDefault: true
+    order: 50
+    layout:
+      position: right
+      priority: 50
 layout:
   groups:
     toolbar:

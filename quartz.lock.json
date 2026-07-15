@@ -199,6 +199,12 @@
       "commit": "a1c1fe0a9c6a5ce1acf6efa01d473a7d9850e2a3",
       "installedAt": "2026-07-08T12:28:41.054Z"
     },
+    "quartz-clickable-images-zoom-plugin": {
+      "source": "github:vazome/quartz-clickable-images-zoom-plugin",
+      "resolved": "https://github.com/vazome/quartz-clickable-images-zoom-plugin.git",
+      "commit": "56bb9e12e41f79231baa5259a8b28303e7ab5ca1",
+      "installedAt": "2026-07-15T16:07:57.245Z"
+    },
     "quartz-themes": {
       "source": {
         "name": "quartz-themes",
@@ -209,6 +215,18 @@
       "commit": "945135e8b70576753d0591e1713fe56553100b3d",
       "subdir": "plugin",
       "installedAt": "2026-07-08T12:35:21.264Z"
+    },
+    "quartz5-clickable-images": {
+      "source": "github:HappyPotatoHead/quartz5-clickable-images",
+      "resolved": "https://github.com/HappyPotatoHead/quartz5-clickable-images.git",
+      "commit": "2791c885d1dee46b78aca6a9da54ad865498149f",
+      "installedAt": "2026-07-15T16:11:00.523Z"
+    },
+    "quartz5-drawer": {
+      "source": "github:HappyPotatoHead/quartz5-drawer",
+      "resolved": "https://github.com/HappyPotatoHead/quartz5-drawer.git",
+      "commit": "0154d5ffe1e5bd16d458b544ed944ba66c65493d",
+      "installedAt": "2026-07-15T16:12:54.423Z"
     },
     "reader-mode": {
       "source": "github:quartz-community/reader-mode",
