@@ -321,7 +321,7 @@ plugins:
       borderRadius: 8px
     order: 50
   - source: github:HappyPotatoHead/quartz5-drawer
-    enabled: true
+    enabled: false
     options:
       collapseByDefault: false
     order: 30
