@@ -22,6 +22,7 @@ configuration:
       body: Reddit Sans
       code: Cutive Mono
       title: Sedgwick Ave Display
+      interface: Sen
     colors:
       lightMode:
         light: "#faf8f8"
