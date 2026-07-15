@@ -324,10 +324,10 @@ plugins:
     enabled: true
     options:
       collapseByDefault: false
-    order: 50
+    order: 30
     layout:
       position: right
-      priority: 50
+      priority: 30
 layout:
   groups:
     toolbar:
