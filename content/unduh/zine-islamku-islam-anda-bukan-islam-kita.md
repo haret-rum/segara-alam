@@ -8,7 +8,7 @@ publish: true
 aliases: []
 categories:
   - Zine
-title: Islamku, Islam anda, (bukan) islam kita
+title: Islamku, Islam Anda, (bukan) Islam kita
 author:
   - Zinedeen
 year: 2025

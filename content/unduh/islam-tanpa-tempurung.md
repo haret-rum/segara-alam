@@ -8,7 +8,7 @@ publish: true
 aliases: []
 categories:
   - Zine
-title: Islam Tanpa Tempurung
+title: Islam tanpa Tempurung
 author:
   - Zinedeen
 year: 2025
