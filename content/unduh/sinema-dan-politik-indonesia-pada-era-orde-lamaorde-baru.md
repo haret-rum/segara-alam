@@ -8,9 +8,9 @@ publish: true
 aliases: []
 categories:
   - Zine
-title: Sinema dan Politik Indonesia pada Era Orde Lama-Orde Baru 
+title: Sinema dan Politik Indonesia pada Era Orde Lama-Orde Baru
 author:
-  - Rosyadah Miftakhul Firdaus
+  - Rosyadah M. F.
   - Layar Film Lab
 year: 2026
 cover: "[[Pengantar Sinema dan Politik Indonesia_1.png]]"
