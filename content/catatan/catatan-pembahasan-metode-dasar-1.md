@@ -11,6 +11,7 @@ publish: true
 date: 2025-04-07
 socialDescription:
 socialImage:
+enableToc: true
 ---
 ## Pembuka
 
