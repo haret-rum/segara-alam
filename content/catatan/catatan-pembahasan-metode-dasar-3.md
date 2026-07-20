@@ -22,7 +22,7 @@ Pertanyaan tersebut dapat dijawab dengan menguraikan dua masalah berikut:
 
 ## Pendekatan Revolusioner dalam Memahami Turāts
 
-Di [[Catatan Pembahasan Metode II|catatan sebelumnya]] telah ditegaskan bahwa beragamnya pengetahuan tentang *turāts* berangkat dari beragamnya landasan pemikiran dan watak ideologisnya. Setiap kelas memiliki ideologinya dan setiap ideologi memiliki berbagai modus dan pendekatan dalam menghasilkan pengetahuannya tentang *turāts*.
+Di [[catatan-pembahasan-metode-dasar-2|catatan sebelumnya]] telah ditegaskan bahwa beragamnya pengetahuan tentang *turāts* berangkat dari beragamnya landasan pemikiran dan watak ideologisnya. Setiap kelas memiliki ideologinya dan setiap ideologi memiliki berbagai modus dan pendekatan dalam menghasilkan pengetahuannya tentang *turāts*.
 
 Apakah itu ideologi revolusioner yang menjadi fondasi utama *an-Naz'āt*?
 
@@ -76,7 +76,7 @@ Ketika pemikiran para pendahulu itu diabstraksikan/dipisahkan — sebagaiman
 1) bagaimana memahami *turāts* dengan kerangka yang baru
 2) bagaimana mempersanjatai pemahaman yang baru ini untuk membebaskan pemikiran Arab hari ini dari dominasi ideologi yang membebek/turunan (*tābiʿah*) pada pemikiran imperialis dan ideologi borjuis.
 
-Tujuan kedua telah dibahas dengan panjang lebar pada [[Project/ABC Marxisme/naz'at/Catatan Pembahasan Metode Dasar 1|pembahasan metode dasar I]]. Adapun tujuan pertama, yaitu bagaimana memahami *turāts* dengan kerangka yang baru, ditempuh dengan mula-mula meletakkan konsepsi *turāts* dalam kerangka konseptual yang historis.
+Tujuan kedua telah dibahas dengan panjang lebar pada [[catatan-pembahasan-metode-dasar-1|pembahasan metode dasar I]]. Adapun tujuan pertama, yaitu bagaimana memahami *turāts* dengan kerangka yang baru, ditempuh dengan mula-mula meletakkan konsepsi *turāts* dalam kerangka konseptual yang historis.
 
 Kerangka konseptual yang historis di sini maksudnya adalah kerangka konseptual pemikiran masyarakat Arab-Islam selama abad pertengahan yang dibasiskan pada hubungannya dengan kesejarahan masyarakat tersebut, dan hubungannya dengan struktur realitas materialnya. 
 
@@ -107,7 +107,7 @@ Konsepsi *turāts* semacam ini menghadirkan kekuatan agensi manusia yang aktif d
 
 Pendekatan yang digunakan Muruwwah dalam *an-Naz'āt* adalah pendekatan materialisme historis.
 
-Kata materialisme tidak berarti bahwa *an-Naz'āt* membatasi objek kajiannya pada pemikiran materialis atau filsafat materialis dan mengabaikan pemikiran dan filsafat idealis. Pembatasan (terhadap objek) yang semacam ini justru merupakan ciri utama dari pendekatan idealis dalam menafsirkan sejarah, khususnya sejarah filsafat — sebagaimana telah diperlihatkan dalam [[Catatan Pembahasan Metode II|catatan sebelumnya]].
+Kata materialisme tidak berarti bahwa *an-Naz'āt* membatasi objek kajiannya pada pemikiran materialis atau filsafat materialis dan mengabaikan pemikiran dan filsafat idealis. Pembatasan (terhadap objek) yang semacam ini justru merupakan ciri utama dari pendekatan idealis dalam menafsirkan sejarah, khususnya sejarah filsafat — sebagaimana telah diperlihatkan dalam [[catatan-pembahasan-metode-dasar-2|catatan sebelumnya]].
 
 Materialisme historis melihat sejarah secara komprehensif dalam semua aspeknya. Sejauh materialisme merupakan bentuk-bentuk historis dari pemikiran, pendekatan materialisme historis akan tetap melihat filsafat idealisme sebanding dengan bagaimana ia melihat filsafat materialisme. Karena baik materialisme maupun idealisme adalah kenyataan historis dalam sejarah filsafat, sedang mengabaikan salah satunya merupakan kecacatan dalam praktik teoretik itu sendiri.
 
@@ -149,6 +149,6 @@ Adapun materialisme dalam filsafat Arab Islam tidak jauh berbeda dengan material
 
 Pertanyaan berikutnya: bagaimana mengukur bentuk-bentuk spesifik dari materialisme tersebut?
 
-Yaitu dengan [[#^0f187f|tiga asas]] di muka yang merupakan prinsip-prinsip yang harus dipegang dalam menjawab pertanyaan-pertanyaan tersebut sepanjang penelaahan sejarah filsafat Arab-Islam.
+Yaitu dengan [[#Bentuk-Bentuk Materialisme dan Idealisme dalam Filsafat Arab-Islam|tiga asas]] di muka yang merupakan prinsip-prinsip yang harus dipegang dalam menjawab pertanyaan-pertanyaan tersebut sepanjang penelaahan sejarah filsafat Arab-Islam.
 
 [^1]: Bagian ini digarisbawahi sebab belum jelas apakah yang dimaksud syakal di sini adalah kerangka pengetahuan, atau ia derivasi musykilah yang berarti problematique. Jika problematique, ini juga perlu kita tanya apakah ia memiliki makna tertentu sebagaimana problematique dalam "praksis teoretik" punya Althusser atau bagaimana.
