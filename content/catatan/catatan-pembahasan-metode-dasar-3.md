@@ -1,5 +1,5 @@
 ---
-title: Catatan Pembahasan metode Dasar 2
+title: Catatan Pembahasan metode Dasar 3
 description:
 permalink: catatan-pembahasan-metode-dasar-3
 aliases:
