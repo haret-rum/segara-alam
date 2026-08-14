@@ -12,7 +12,7 @@ date: 2025-08-02
 socialDescription:
 socialImage:
 ---
-## Dua faktor utama ”Situasi Historis”
+-+## Dua faktor utama ”Situasi Historis”
 
 Situasi historis merupakan landasan referensi objektif yang menentukan bentuk dan karakter pemikiran. Apa saja faktor utama bagi ”situasi historis” yang memungkinkan *turāts* Arab-Islam tertentu lahir?
 
