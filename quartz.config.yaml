@@ -26,11 +26,11 @@ configuration:
     colors:
       lightMode:
         light: "#faf8f8"
-        lightgray: "#dd7878"
+        lightgray: "#ffefef"
         gray: "#ccd0da"
         darkgray: "#303446"
         dark: "#d20f39"
-        secondary: "#E7D3D3"
+        secondary: "#d20f39"
         tertiary: "#683030"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#fff23688"
