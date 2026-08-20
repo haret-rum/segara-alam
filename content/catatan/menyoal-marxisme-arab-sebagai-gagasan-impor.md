@@ -111,5 +111,5 @@ Beberapa elaborasi teoretik[^2], bahkan produksi teori yang baru ini, menjelaska
 
 ## Daftar Pustaka
 
-::: {#refs}
+[^ref]
 
