@@ -14,7 +14,7 @@ toc: true
 publish: true
 ---
 
-![](content/assets/Menyoal Marxisme Arab sebagai Gagasan Impor-1787162264913.png)
+![[Menyoal Marxisme Arab sebagai Gagasan Impor-1787162264913.png]] 
 
 Istilah gagasan impor, *al-fikr al-mustawrad* atau semacamnya seperti *al-fikr al-wāfid*, *al-dakhīl*, dan lain-lain menjadi populer digunakan oleh para sarjana Arab pada paruh terakhir abad ke-20. Perihal ini pernah didokumentasikan oleh Mahdi Amil dalam *Naqd al-Fikr al-Yawmī* [-@amilNaqdAlFikrAlYaumi1989] dan Salamah Kaylah dalam *al-Nahdhah al-Mujahhadhah* [@kaylahmujahhadhah] . Istilah gagasan impor dalam arti populernya ini biasanya digunakan dengan konotasi yang negatif, yang kerap dipertentangkan dengan *turāts* atau *al-fikr al-maurūts* dan dikembalikan pada setiap gagasan yang berasal dari luar tubuh peradaban Arab-Islam, khususnya Barat. 
 
