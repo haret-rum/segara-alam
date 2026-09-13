@@ -1,0 +1,13 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - collection == "unduh"
+    order:
+      - author
+      - year
+    sort:
+      - property: year
+        direction: ASC
+    image: note.socialImage
