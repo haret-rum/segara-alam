@@ -155,6 +155,7 @@ plugins:
       enableRSS: true
       rssLimit: 10
       rssFullHtml: true
+      includeEmptyFiles: false
   - source: github:quartz-community/favicon
     enabled: true
   - source: github:quartz-community/og-image
@@ -249,11 +250,11 @@ plugins:
       position: afterBody
       priority: 10
   - source: github:quartz-community/footer
-    enabled: false
+    enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Rss Feed: https://segara-alam.my.id/index.xml
+        Website: https://arsipin.com
   - source: github:quartz-community/recent-notes
     enabled: true
     options:
