@@ -31,6 +31,3 @@ Dalam cara pandang metafisis, perdebatan soal akal vs iman juga sebenarnya tidak
 
 Dalam kepentingan itu, modernitas mensyaratkan sekulerisasi, yakni pemisahan politik dari agama, politik dari ekonomi, politik dari kebudayaan dan seterusnya. Namun pemisahan ini bukan berarti penghapusan sama sekali agama, tetapi penundukan dan penaklukan agama di bawah politik modern. Maka bukan hal yang mengherankan bila, misalnya, posisi al-Azhar yang semula relatif independen, kemudian di bawah rezim negara baru Nasser ditundukkan sebagai bawahan pemerintahan. Tujuan adanya negara-bangsa modern bukanlah menghapuskan kebudayaan lama, tetapi meminjam bahasa Raymond Williams [-@williamsMarxismLiterature1977], adalah menginkorporasi aspek-aspek yang mendukung kebudayaan modern yang dominan, yakni kebudayaan kaum pemilik modal. Agama tidak dihabisi, tetapi ia direformasi agar tunduk sebagai pelayan kapital.
 
-## Daftar Pustaka
-
-[^ref]
