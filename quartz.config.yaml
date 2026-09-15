@@ -103,8 +103,6 @@ plugins:
   - source: github:quartz-community/citations
     enabled: true
     options:
-      bibliographyFile: bibliography.bib
-      suppressBibliography: true
       linkCitations: true
       csl: chicago
     order: 85
