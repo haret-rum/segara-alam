@@ -30,3 +30,7 @@ Dalam pranata sosial keagamaan, hal ini berlaku misalnya dengan meletakkan fungs
 Dalam cara pandang metafisis, perdebatan soal akal vs iman juga sebenarnya tidaklah relevan bagi imperialisme. Problemnya adalah, bagi imperialisme, agama yang direpresentasikan iman dapat direformasi dengan reinterpretasi sedemikian rupa sehingga ia menerima aspek-aspek rasionalitas modern. Proses reformasi agar senyawa dengan rasionalitas modern untuk kepentingan kapitalisme ini berhasil diterapkan dalam agama Kristen, seperti dituliskan oleh Weber, sosiolog pendukung reformasi agama itu.
 
 Dalam kepentingan itu, modernitas mensyaratkan sekulerisasi, yakni pemisahan politik dari agama, politik dari ekonomi, politik dari kebudayaan dan seterusnya. Namun pemisahan ini bukan berarti penghapusan sama sekali agama, tetapi penundukan dan penaklukan agama di bawah politik modern. Maka bukan hal yang mengherankan bila, misalnya, posisi al-Azhar yang semula relatif independen, kemudian di bawah rezim negara baru Nasser ditundukkan sebagai bawahan pemerintahan. Tujuan adanya negara-bangsa modern bukanlah menghapuskan kebudayaan lama, tetapi meminjam bahasa Raymond Williams [-@williamsMarxismLiterature1977], adalah menginkorporasi aspek-aspek yang mendukung kebudayaan modern yang dominan, yakni kebudayaan kaum pemilik modal. Agama tidak dihabisi, tetapi ia direformasi agar tunduk sebagai pelayan kapital.
+
+## Daftar Pustaka
+
+[^ref]
