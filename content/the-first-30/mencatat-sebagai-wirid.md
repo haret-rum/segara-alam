@@ -1,5 +1,5 @@
 ---
-title: Mencatat Sebagai Wirid
+title: Mencatat sebagai Wirid
 description:
 permalink: mencatat-sebagai-wirid
 aliases: []
