@@ -104,7 +104,8 @@ plugins:
     enabled: true
     options:
       linkCitations: true
-      csl: chicago
+      bibliography: bibliography.bib
+      csl: chicago-notes-bibliography-17th-edition.csl
     order: 85
   - source: github:quartz-community/hard-line-breaks
     enabled: true
