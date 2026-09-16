@@ -105,7 +105,7 @@ plugins:
     options:
       linkCitations: true
       bibliography: bibliography.bib
-      csl: vancouver
+      csl: apa 
     order: 85
   - source: github:quartz-community/hard-line-breaks
     enabled: true
