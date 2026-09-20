@@ -40,7 +40,7 @@ Pembelajaran atas pertanyaan-pertanyaan di atas harus kita kuasai. Marx telah me
 
 Kita bisa saja berangkat dari Das Kapital yang ditulis Marx. Tapi terdapat kerumitan dalam konsep-konsep Das Kapital yang barangkali membuat kita pening tak main. Khususnya di dua bab pertama, teori Marx tentang nilai dan komoditas. Ini wajar saja sebab dua bab pertama merupakan punggung teori dari Das Kapital. Marx mengelus dada pembacanya berkata demikian:
 
-> “Setiap awal itu sulit, ini berlaku untuk semua ilmu pengetahuan. Oleh karena itu pemahaman bab pertama—terutama bagian yang berisi analisis tentang komoditas—akan menjadi kesulitan terbesar” [@F48CXBAG]
+> “Setiap awal itu sulit, ini berlaku untuk semua ilmu pengetahuan. Oleh karena itu pemahaman bab pertama—terutama bagian yang berisi analisis tentang komoditas—akan menjadi kesulitan terbesar” [@manuscript1867]
 
 Hal ini lantaran kekuatan abstraksi yang melekat pada metode dialektika yang Marx gunakan. 
 
@@ -104,6 +104,6 @@ Buku ini, meski dalam bahasa Arab, tetap relatif mudah dipahami, lantaran buku i
 
 Sebagai pungkasan saya ingin mengutip Marx dalam pengantarnya:
 
-> “Di jalan ilmu, tidak ada jalan raya yang mulus, dan hanya mereka yang tidak takut lelah mendaki di jalan yang terjal, yang memiliki harapan untuk mencapai puncak yang bersinar” [@TTYNSEZ7]
+> “Di jalan ilmu, tidak ada jalan raya yang mulus, dan hanya mereka yang tidak takut lelah mendaki di jalan yang terjal, yang memiliki harapan untuk mencapai puncak yang bersinar” [@manuscript1872]
 
 ### Referensi
