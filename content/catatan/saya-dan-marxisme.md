@@ -16,7 +16,7 @@ publish: true
 
 Sudah bertahun-tahun saya hidup di Mesir tapi rasanya seperti baru kemarin sore. Selama itu, satu-satunya hal yang saya sesali adalah mengapa saya baru meminati Marxisme sebagai pemikiran tahun 21 dan mengapa saya baru menemukan orang-orang di sekeliling saya berminat ke Marxisme tahun 25-an.
 
-Minat saya pada pemikiran Marx tidak dipicu oleh realitas. Tidak dipicu oleh pengalaman yang saya rasakan. Di tingkat sosial, saya tergolong kaum menengah. Keluarga saya memang memiliki banyak uang, pendapatan yang lumayan, hanya saja tidak termasuk dalam golongan kelas pemilik alat produksi. 
+Minat saya pada pemikiran Marx tidak dipicu oleh realitas. Tidak dipicu oleh pengalaman yang saya rasakan. Di tingkat sosial, saya tergolong kaum menengah ke atas. Keluarga saya memang memiliki banyak uang, pendapatan yang lumayan, hanya saja tidak termasuk dalam golongan kelas pemilik alat produksi. 
 
 Minat saya pada pemikiran Marx dan kaum Marxis lainnya semata-mata karena ia menggugat diskursus yang waktu itu saya pelajari, yaitu posmodernisme dan poskolonialisme. Dari situ pengalaman dan kesadaran Marxis saya bermula. Tidak dan belum revolusioner memang. Namun di waktu kemudian, simpati yang dalam terhadap apa yang terjadi di Palestina, situasi-situasi mutakhir di Indonesia, pengalaman para Marxis di Twitter turut merevolusionerkan apa yang saya ketahui dan memberikan arah ke mana bekal Marxisme yang saya miliki akan bergerak. Saya berterimakasih banyak untuk itu.
 
