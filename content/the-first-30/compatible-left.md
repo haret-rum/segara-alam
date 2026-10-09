@@ -14,6 +14,7 @@ publish: true
 ---
 ![[ezgif-4f2ad5eedafd3447.gif]]
 
+
 Buat saya, Bagian yang mengasyikkan dari mendiskusikan satu buku bersama adalah saling terbukanya ragam perspektif satu sama lain di dalam forum. Saya jadi memahami perspektif yang sebelumnya tidak saya tangkap. Saya jadi mengerti penekanan satu istilah yang sebelumnya saya lewatkan.
 
 Jumat lalu saya mengikuti diskusi buku “Kekerasan Budaya Pasca 1965” karya Wijaya Herlambang. Pertemuan minggu lalu masih berkutat pada bab ketiga dari buku tersebut. Beberapa problem utama yang didiskusikan adalah seputar humanisme universal dan liberalisme dalam kebudayaan Indonesia. Termasuk di dalamnya adalah hubungan institusional antara penandatangan Manifes Kebudayaan (Manikebu), militer, dan CCF (*Cultural Conference of Freedom*).
@@ -26,7 +27,7 @@ CCF menyalurkan dananya ke berbagai institusi kebudayaan sebagai bentuk kampanye
 
 Istilah *compatible left* dalam penggunaan Braden tak lain hanya ganti dari dari istilah internal CIA yang digunakan sebelumnya yaitu *non-communist left* (NCL). Dua-duanya sama-sama berkaitan erat dengan operasi politik AS memerangi komunisme selama Perang Dingin.
 
-Istilah *compatible left* sebagai konsep analitis baru dipakai pertama kali oleh Rockhill. *Compatible left* sebagai konsep analitis tidak sekedar memaksudkan kompatibilitas (baca: kesesuaian kiri dengan kampanye anti-komunisme) dalam dimensi fungsionalnya saja, seperti Bradel tadi. Tidak hanya berarti para kiri ini sesuai dengan kepentingan AS. Rockhill memperluas istilah ini sehingga mencakup kompatibilitasnya dengan tatanan kapitalis dan sikap politik tertentu terhadap sosialisme yang sejati. Istilah ini kemudian digunakan oleh Rockhill untuk menganalisis Madzhab Frankfurt dan Marxisme Barat.
+Istilah *compatible left* sebagai konsep analitis baru dipakai pertama kali oleh Gabriel Rockhill. *Compatible left* sebagai konsep analitis tidak sekedar memaksudkan kompatibilitas (baca: kesesuaian kiri dengan kampanye anti-komunisme) dalam dimensi fungsionalnya saja, seperti Braden tadi. Tidak hanya berarti para kiri ini sesuai dengan kepentingan AS. Rockhill memperluas istilah ini sehingga mencakup kompatibilitasnya dengan tatanan kapitalis dan sikap politik tertentu terhadap sosialisme yang sejati. Istilah ini kemudian digunakan oleh Rockhill untuk menganalisis Madzhab Frankfurt dan Marxisme Barat.
 
 Mengapa harus diperluas? karena kompatibilitas fungsional tidak sama dengan kompatibilitas teoretik. Untuk membuktikan gagasan Goenawan Mohammad, misalnya, keliru tidak cukup dengan kita membongkar fakta bahwa GM didanai oleh IACF. Melainkan juga perlu membuktikan gagasan GM secara internal, melalui teksnya yang tampaknya berbicara tentang kebebasan manusia itu, bahwa ia di dalam teksnya juga membawa pesan-pesan subliminal yang menormalisasi kekerasan dan membawa wacana anti-komunisme. Dan bahwa resepsi publik dapat menyimpulkan bahwa kiri adalah GM. Itulah yang dilakukan Rockhill dalam analisisnya atas Marxisme Barat.
 
