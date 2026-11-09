@@ -36,7 +36,7 @@ Namun sependek pengalaman saya jadi penyunting, kerja yang rasanya ‘kreatif’
 
 Layout seharusnya tidak pernah ada di dunia di mana estetika tata letak tidak pernah diperhatikan. 
 
-Saya heran mengapa banyak teman-teman saya mengutarakan mintanya untuk layouting. Layouting beroperasi dengan meresikokan punggung, leher dan mata. Di Indonesia kerja layoting untuk orang magang hanya Rp.1500 per halaman. Jika buku berhalaman 200, layoter magang hanya dapat Rp.300.000. Jika sudah profesional menjadi Rp.2500-3000 per halaman. Pun kerjanya tidak begitu diperhatikan. Di masisir, menjadi layouter hanya diupah 200 le. Itu pun dengan tekad yang kuat berkhidmah.
+Saya heran mengapa banyak teman-teman saya mengutarakan mintanya untuk belajar layouting. Layouting beroperasi dengan meresikokan punggung, leher dan mata. Di Indonesia kerja layoting untuk orang magang hanya Rp.1500 per halaman. Jika buku berhalaman 200, layoter magang hanya dapat Rp.300.000. Jika sudah profesional menjadi Rp.2500-3000 per halaman. Pun kerjanya tidak begitu diperhatikan. Di masisir, menjadi layouter hanya diupah 200 le. Itu pun dengan tekad yang kuat berkhidmah.
 
 Mesin dapat melakukan kerja-kerja itu hari ini. 
 
